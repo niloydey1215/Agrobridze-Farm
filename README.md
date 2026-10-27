@@ -1,2 +1,2 @@
 # Niloy-dey
- Interested in Computer Science fundamentals. Passionate about Artificial Intelligence and Software Development
+ AgroBridge - Bridging farmers and buyers. Features farmer and customer dashboards, product listings, order management and secure payment tracking.
